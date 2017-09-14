@@ -1,0 +1,11 @@
+{
+	"id": "casper_quotes",
+	"version": "1.0",
+	"description": "Quotes of the german rapper Casper",
+	"categories": [
+		"casper",
+		"quotes",
+		"entertainment"
+	],
+	"compatible_from": "2017.3.12"
+}
